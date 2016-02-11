@@ -1,6 +1,6 @@
 # test
 This is some test text.
 
-And Ben approves.
+And Ben <del>approves</del> disapproves.
 
 HURRRR DURRRRRRR IM SIMON
